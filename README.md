@@ -1,4 +1,4 @@
 HELMI
 =====
 
-HELMI (HELMI Es La Mascota ICANUX)
+HELMI Es La Mascota ICANUX
